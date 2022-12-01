@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **optimizations of production planning and scheduling problems** and **Front-End development**
 - 💬 Ask me about **operational research**
 - 📫 How to reach me: renatossnt@gmail.com
-- 🤝 You can reach me in Português or English
+- 🤝 You can reach me in **Português** or **English**
 - ⚡ Random facts: In my free time I love to workout and listen to music
 <br>
 
