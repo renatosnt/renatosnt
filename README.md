@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning **optimizations of production planning and scheduling problemns** and **Front-End development**
+- 🌱 I’m currently learning **optimizations of production planning and scheduling problems** and **Front-End development**
 - 💬 Ask me about **operational research**
 - 📫 How to reach me: renatossnt@gmail.com
+- 🤝 You can reach me in Português or English
 - ⚡ Random facts: In my free time I love to workout and listen to music
 <br>
 
