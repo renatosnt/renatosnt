@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+ Cursando Ciência da Computação.
+ Aprofundando em Front-End.
+ Estudando Nodejs e UI/UX.
 
 <br>
 
