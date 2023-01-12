@@ -1,9 +1,10 @@
 ### Hi there 👋
  Computer Science Student.
  
- Aprofundando em Front-End.
+ Diving into the world of web development.
  
- Estudando Nodejs e UI/UX.
+ I'm on track for learning more about UI/UX and Node.js.
+
  
 
 <br>
