@@ -1,9 +1,9 @@
 ### Hi there 👋
- Computer Science Student.
+ 🎓 Computer Science Student.
  
- Diving into the world of web development.
+ 💻 Diving into the world of web development.
  
- I'm on track for learning more about UI/UX and Node.js.
+ 🌱 I'm on track for learning more about UI/UX and Node.js.
 
  
 
