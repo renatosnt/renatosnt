@@ -3,7 +3,7 @@
  
  💻 Diving into the world of web development.
  
- 🌱 I'm on track for learning more about UI/UX and Node.js.
+ 🌱 I'm on track for learning more about back-end development.
 
  
 
