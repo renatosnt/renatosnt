@@ -3,7 +3,7 @@
  
  💻 Diving into the world of web development.
  
- 🌱 I'm on track for learning more about back-end development.
+ 🌱 I'm on track for learning more about full stack development and data science
 
  
 
